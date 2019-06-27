@@ -5,7 +5,7 @@ This is a test repository for [this](https://wicg.github.io/is-input-pending/) s
 [Demo on github pages](https://eddie-cooro.github.io/is-input-pending-test/)
 
 # Installation
-In order to run this demo you should have chrome > 74 and serve `index.html` using a server.
+In order to run this demo you should have chrome >= 74 & <= 76 and serve `index.html` using a server.
 If you don't have one, you can use *live-server* package by running the following lines:
 ```
 npm i -g live-server
